@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "renovate": "^24.65.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "renovate": "renovate",
+    "renovate-config-validator": "renovate-config-validator"
   },
   "repository": {
     "type": "git",
