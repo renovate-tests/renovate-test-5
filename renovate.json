@@ -6,7 +6,6 @@
       "labels": ["UPDATE-MAJOR"]
     }
   ],
-  "separateMajorMinor": false,
   "recreateClosed": true,
   "rangeStrategy": "bump",
   "updateInternalDeps": true,
