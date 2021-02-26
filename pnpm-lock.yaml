@@ -3,7 +3,7 @@ importers:
     dependencies:
       renovate: 24.65.0
     specifiers:
-      renovate: ^24.64.3
+      renovate: ^24.65.0
   packages/a:
     dependencies:
       webpack: 5.24.2
