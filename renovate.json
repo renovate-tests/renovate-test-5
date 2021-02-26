@@ -4,6 +4,10 @@
     {
       "matchUpdateTypes": ["major"],
       "labels": ["UPDATE-MAJOR"]
+    },
+    {
+      "matchUpdateTypes": ["minor"],
+      "labels": ["update-minor"]
     }
   ],
   "recreateClosed": true,
