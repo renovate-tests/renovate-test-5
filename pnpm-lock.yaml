@@ -3,12 +3,12 @@ importers:
     dependencies:
       renovate: 24.65.0
     specifiers:
-      renovate: ^24.65.0
+      renovate: ^24.64.3
   packages/a:
     dependencies:
       webpack: 4.46.0
     specifiers:
-      webpack: ^4.44.1
+      webpack: ^4.44.2
   packages/b:
     dependencies:
       webpack: 5.24.2
