@@ -2,5 +2,6 @@
   "extends": ["config:base"],
   "separateMajorMinor": false,
   "recreateClosed": true,
-  "rangeStrategy": "bump"
+  "rangeStrategy": "bump",
+  "updateInternalDeps": true
 }
