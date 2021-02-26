@@ -1,4 +1,3 @@
 {
-  "extends": ["config:base"],
-  "separateMajorMinor": false
+  "extends": ["config:base"]
 }
