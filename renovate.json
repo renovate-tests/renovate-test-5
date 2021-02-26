@@ -1,4 +1,5 @@
 {
   "extends": ["config:base"],
-  "separateMajorMinor": false
+  "separateMajorMinor": false,
+  "recreateClosed": true
 }
