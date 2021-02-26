@@ -1,6 +1,14 @@
 {
+  "labels": ["dependencies"],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["major"],
+      "labels": ["UPDATE-MAJOR"]
+    }
+  ],
   "separateMajorMinor": false,
   "recreateClosed": true,
   "rangeStrategy": "bump",
-  "updateInternalDeps": true
+  "updateInternalDeps": true,
+  "semanticCommits": "enabled"
 }
