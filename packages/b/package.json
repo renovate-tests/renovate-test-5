@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "webpack": "^5.22.1",
-    "lodash": "^4.17.20"
+    "webpack": "^5.22.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
